@@ -1,0 +1,2351 @@
+{
+  "app": "CALMA",
+  "version": "2.1",
+  "language": "es-GT",
+  "type": "programa psicoeducativo de autoayuda, no psicoterapia",
+  "disclaimer": "No sustituye atención profesional. En riesgo inmediato de daño, buscar ayuda humana y servicios de emergencia.",
+  "lessons": [
+    {
+      "day": 1,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "¿Qué es la ira?",
+      "objective": "Aprender a trabajar con esta habilidad: ¿qué es la ira?.",
+      "reading": "La ira puede avisarnos de una frustración, amenaza o injusticia percibida. Reconocerla no significa obedecerla. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la ira puede avisarnos de una frustración, amenaza o injusticia percibida. Reconocerla no significa obedecerla. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien no responde un mensaje y aparece una sensación de rechazo.",
+      "reflectionQuestion": "¿Qué diferencia hay entre sentir enojo y actuar desde él?",
+      "experienceQuestion": "Recordá una molestia pequeña reciente. ¿Qué emoción apareció primero?",
+      "quiz": [
+        {
+          "question": "¿Qué es más útil al sentir ira?",
+          "options": [
+            "Reconocerla y elegir la respuesta",
+            "Negarla por completo",
+            "Actuar inmediatamente"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Reconocerla y elegir la respuesta». La ira puede avisarnos de una frustración, amenaza o injusticia percibida. Reconocerla no significa obedecerla."
+        }
+      ],
+      "dailyChallenge": "Nombrá una emoción antes de reaccionar.",
+      "closingMessage": "Cada vez que practicás ¿qué es la ira?, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 2,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Sentir no es agredir",
+      "objective": "Aprender a trabajar con esta habilidad: sentir no es agredir.",
+      "reading": "La emoción y la conducta son distintas: sentir ira no autoriza insultos, amenazas ni daños. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la emoción y la conducta son distintas: sentir ira no autoriza insultos, amenazas ni daños. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona está molesta por un retraso y elige expresar su preocupación sin gritar.",
+      "reflectionQuestion": "¿Por qué es importante separar emoción y conducta?",
+      "experienceQuestion": "¿Qué respuesta te gustaría cambiar en una discusión leve?",
+      "quiz": [
+        {
+          "question": "¿Qué conducta respeta esta diferencia?",
+          "options": [
+            "Romper algo para aliviarse",
+            "Amenazar para ser escuchado",
+            "Expresar el enojo sin agresión"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Expresar el enojo sin agresión». La emoción y la conducta son distintas: sentir ira no autoriza insultos, amenazas ni daños."
+        }
+      ],
+      "dailyChallenge": "Practicá una frase firme sin insultos.",
+      "closingMessage": "Cada vez que practicás sentir no es agredir, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 3,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "El precio de la reacción impulsiva",
+      "objective": "Aprender a trabajar con esta habilidad: el precio de la reacción impulsiva.",
+      "reading": "Una reacción de segundos puede tener efectos duraderos en la confianza, la seguridad y el bienestar. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una reacción de segundos puede tener efectos duraderos en la confianza, la seguridad y el bienestar. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "En una discusión alguien lanza una frase hiriente que después lamenta.",
+      "reflectionQuestion": "¿Qué consecuencias merecen más atención que ganar una discusión?",
+      "experienceQuestion": "Pensá en un conflicto leve: ¿qué resultado deseabas realmente?",
+      "quiz": [
+        {
+          "question": "¿Qué ayuda a decidir mejor?",
+          "options": [
+            "Ignorar el impacto en otros",
+            "Considerar consecuencias antes de actuar",
+            "Responder para ganar"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Considerar consecuencias antes de actuar». Una reacción de segundos puede tener efectos duraderos en la confianza, la seguridad y el bienestar."
+        }
+      ],
+      "dailyChallenge": "Antes de contestar, preguntate qué consecuencia buscás.",
+      "closingMessage": "Cada vez que practicás el precio de la reacción impulsiva, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 4,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "La ira y las personas cercanas",
+      "objective": "Aprender a trabajar con esta habilidad: la ira y las personas cercanas.",
+      "reading": "Los vínculos importantes generan expectativas intensas; expresar necesidades no exige controlar a otras personas. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: los vínculos importantes generan expectativas intensas; expresar necesidades no exige controlar a otras personas. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una cita se pospone y alguien interpreta que ya no es importante.",
+      "reflectionQuestion": "¿Cómo cambia el enojo cuando esperamos algo de alguien querido?",
+      "experienceQuestion": "¿Qué expectativa podrías expresar como petición?",
+      "quiz": [
+        {
+          "question": "¿Qué expresa una necesidad sin imponer?",
+          "options": [
+            "Me gustaría que lo conversemos",
+            "Tenés que hacer lo que digo",
+            "Si me quisieras lo adivinarías"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Me gustaría que lo conversemos». Los vínculos importantes generan expectativas intensas; expresar necesidades no exige controlar a otras personas."
+        }
+      ],
+      "dailyChallenge": "Transformá una exigencia en petición respetuosa.",
+      "closingMessage": "Cada vez que practicás la ira y las personas cercanas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-01",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 5,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Las señales del cuerpo",
+      "objective": "Aprender a trabajar con esta habilidad: las señales del cuerpo.",
+      "reading": "La tensión, el calor, la respiración rápida o la mandíbula apretada pueden advertir que el enojo aumenta. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la tensión, el calor, la respiración rápida o la mandíbula apretada pueden advertir que el enojo aumenta. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Antes de levantar la voz, una persona nota sus hombros rígidos.",
+      "reflectionQuestion": "¿Qué señales físicas te parecen más fáciles de identificar?",
+      "experienceQuestion": "¿Dónde sentís tensión ante una frustración leve?",
+      "quiz": [
+        {
+          "question": "¿Qué puede indicar tensión creciente?",
+          "options": [
+            "Que debo atacar",
+            "Que tengo que ignorarme",
+            "Que conviene revisar mi estado"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Que conviene revisar mi estado». La tensión, el calor, la respiración rápida o la mandíbula apretada pueden advertir que el enojo aumenta."
+        }
+      ],
+      "dailyChallenge": "Observá tres señales corporales sin intentar cambiarlas.",
+      "closingMessage": "Cada vez que practicás las señales del cuerpo, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 6,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Reconocer detonantes",
+      "objective": "Aprender a trabajar con esta habilidad: reconocer detonantes.",
+      "reading": "Un detonante es una situación que suele activar malestar; conocerlo ayuda a prepararnos sin culpar al entorno. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un detonante es una situación que suele activar malestar; conocerlo ayuda a prepararnos sin culpar al entorno. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una interrupción repetida provoca irritación durante una tarea.",
+      "reflectionQuestion": "¿Por qué reconocer detonantes no equivale a justificar agresiones?",
+      "experienceQuestion": "¿Qué situación cotidiana suele molestarte?",
+      "quiz": [
+        {
+          "question": "¿Para qué sirve identificar detonantes?",
+          "options": [
+            "Para evitar toda relación",
+            "Para prepararme mejor",
+            "Para responsabilizar a otros"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Para prepararme mejor». Un detonante es una situación que suele activar malestar; conocerlo ayuda a prepararnos sin culpar al entorno."
+        }
+      ],
+      "dailyChallenge": "Anotá un detonante y una respuesta segura posible.",
+      "closingMessage": "Cada vez que practicás reconocer detonantes, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 7,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Expectativas y frustración",
+      "objective": "Aprender a trabajar con esta habilidad: expectativas y frustración.",
+      "reading": "Preferir que algo ocurra es distinto de exigir que necesariamente ocurra. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: preferir que algo ocurra es distinto de exigir que necesariamente ocurra. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una fila avanza lentamente y aparece el pensamiento «esto no debería pasar».",
+      "reflectionQuestion": "¿Qué cambia al sustituir «debe» por «preferiría»?",
+      "experienceQuestion": "¿Qué expectativa reciente no se cumplió?",
+      "quiz": [
+        {
+          "question": "¿Qué pensamiento es más flexible?",
+          "options": [
+            "Preferiría que fuera distinto",
+            "Es intolerable que pase",
+            "Todo debe salir a mi modo"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Preferiría que fuera distinto». Preferir que algo ocurra es distinto de exigir que necesariamente ocurra."
+        }
+      ],
+      "dailyChallenge": "Reformulá una exigencia como preferencia.",
+      "closingMessage": "Cada vez que practicás expectativas y frustración, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 8,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Mirar las consecuencias",
+      "objective": "Aprender a trabajar con esta habilidad: mirar las consecuencias.",
+      "reading": "Evaluar qué ocurre después de nuestras respuestas permite aprender sin castigarnos. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: evaluar qué ocurre después de nuestras respuestas permite aprender sin castigarnos. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Tras hablar bruscamente, una persona observa que el problema inicial sigue sin resolverse.",
+      "reflectionQuestion": "¿Cómo distinguir aprendizaje de culpa destructiva?",
+      "experienceQuestion": "¿Qué resultado tuvo una respuesta reciente?",
+      "quiz": [
+        {
+          "question": "¿Qué favorece el aprendizaje?",
+          "options": [
+            "Declararme un fracaso",
+            "Negar lo sucedido",
+            "Examinar resultados sin etiquetarme"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Examinar resultados sin etiquetarme». Evaluar qué ocurre después de nuestras respuestas permite aprender sin castigarnos."
+        }
+      ],
+      "dailyChallenge": "Registrá una consecuencia y una alternativa.",
+      "closingMessage": "Cada vez que practicás mirar las consecuencias, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-02",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 9,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Lo que puedo controlar",
+      "objective": "Aprender a trabajar con esta habilidad: lo que puedo controlar.",
+      "reading": "No controlamos todas las decisiones ajenas, pero podemos trabajar nuestras acciones, límites y peticiones. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: no controlamos todas las decisiones ajenas, pero podemos trabajar nuestras acciones, límites y peticiones. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien cambia de opinión y otra persona intenta obligarlo a volver atrás.",
+      "reflectionQuestion": "¿Qué parte de un desacuerdo depende realmente de vos?",
+      "experienceQuestion": "Identificá algo que quisiste controlar sin poder hacerlo.",
+      "quiz": [
+        {
+          "question": "¿Qué suele depender de mí?",
+          "options": [
+            "Todas las circunstancias",
+            "Mi forma de responder",
+            "Los pensamientos ajenos"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Mi forma de responder». No controlamos todas las decisiones ajenas, pero podemos trabajar nuestras acciones, límites y peticiones."
+        }
+      ],
+      "dailyChallenge": "Hacé dos columnas: «depende de mí» y «no depende de mí».",
+      "closingMessage": "Cada vez que practicás lo que puedo controlar, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 10,
+      "unit": 1,
+      "unitTitle": "Comprender la ira",
+      "title": "Mi mapa de la ira",
+      "objective": "Aprender a trabajar con esta habilidad: mi mapa de la ira.",
+      "reading": "Un mapa personal reúne detonantes, señales, pensamientos y conductas para reconocer patrones. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un mapa personal reúne detonantes, señales, pensamientos y conductas para reconocer patrones. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Al revisar una semana, alguien nota que se irrita más cuando está agotado.",
+      "reflectionQuestion": "¿Qué patrón te gustaría comprender primero?",
+      "experienceQuestion": "¿Qué detonante, señal y pensamiento suelen coincidir?",
+      "quiz": [
+        {
+          "question": "¿Qué incluye un mapa útil?",
+          "options": [
+            "Situación, pensamiento y respuesta",
+            "Solo la culpa ajena",
+            "Una etiqueta personal"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Situación, pensamiento y respuesta». Un mapa personal reúne detonantes, señales, pensamientos y conductas para reconocer patrones."
+        }
+      ],
+      "dailyChallenge": "Escribí un mapa breve de una molestia leve.",
+      "closingMessage": "Cada vez que practicás mi mapa de la ira, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 11,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Hechos e interpretaciones",
+      "objective": "Aprender a trabajar con esta habilidad: hechos e interpretaciones.",
+      "reading": "Un hecho observable no es lo mismo que una conclusión sobre las intenciones de otra persona. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un hecho observable no es lo mismo que una conclusión sobre las intenciones de otra persona. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "«Llegó tarde» es un hecho; «no me respeta» puede ser una interpretación.",
+      "reflectionQuestion": "¿Cómo distinguirías ambos elementos?",
+      "experienceQuestion": "Escribí una conclusión que hayas sacado con pocos datos.",
+      "quiz": [
+        {
+          "question": "¿Cuál es una observación verificable?",
+          "options": [
+            "Todos quieren perjudicarme",
+            "Nunca le importo a nadie",
+            "La reunión empezó a las nueve"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «La reunión empezó a las nueve». Un hecho observable no es lo mismo que una conclusión sobre las intenciones de otra persona."
+        }
+      ],
+      "dailyChallenge": "Separá un hecho de una interpretación.",
+      "closingMessage": "Cada vez que practicás hechos e interpretaciones, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 12,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "El modelo ABC",
+      "objective": "Aprender a trabajar con esta habilidad: el modelo abc.",
+      "reading": "En TREC, A es acontecimiento, B creencia y C consecuencia emocional o conductual; las creencias influyen en la reacción. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: en TREC, A es acontecimiento, B creencia y C consecuencia emocional o conductual; las creencias influyen en la reacción. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "A: cancelan un plan; B: «no deberían hacerme esto»; C: ira intensa.",
+      "reflectionQuestion": "¿Qué parte del ABC te parece más difícil de identificar?",
+      "experienceQuestion": "Recordá un inconveniente leve y completá A, B y C.",
+      "quiz": [
+        {
+          "question": "¿Qué representa B?",
+          "options": [
+            "La consecuencia",
+            "La creencia o interpretación",
+            "La respiración"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «La creencia o interpretación». En TREC, A es acontecimiento, B creencia y C consecuencia emocional o conductual; las creencias influyen en la reacción."
+        }
+      ],
+      "dailyChallenge": "Anotá un ABC breve sin juzgarlo.",
+      "closingMessage": "Cada vez que practicás el modelo abc, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-03",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 13,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Las exigencias rígidas",
+      "objective": "Aprender a trabajar con esta habilidad: las exigencias rígidas.",
+      "reading": "Palabras como «debe», «siempre» o «jamás» pueden convertir preferencias legítimas en reglas inflexibles. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: palabras como «debe», «siempre» o «jamás» pueden convertir preferencias legítimas en reglas inflexibles. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona piensa que todos deben reconocer su esfuerzo en todo momento.",
+      "reflectionQuestion": "¿Qué efecto tienen las exigencias absolutas?",
+      "experienceQuestion": "¿Qué «debería» aparece en tu diálogo interior?",
+      "quiz": [
+        {
+          "question": "¿Qué frase expresa flexibilidad?",
+          "options": [
+            "Me gustaría recibir reconocimiento",
+            "Todos tienen que admirarme",
+            "Jamás pueden discrepar"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Me gustaría recibir reconocimiento». Palabras como «debe», «siempre» o «jamás» pueden convertir preferencias legítimas en reglas inflexibles."
+        }
+      ],
+      "dailyChallenge": "Detectá un «debe» y cambialo por una preferencia.",
+      "closingMessage": "Cada vez que practicás las exigencias rígidas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 14,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Cuando todo parece terrible",
+      "objective": "Aprender a trabajar con esta habilidad: cuando todo parece terrible.",
+      "reading": "La catastrofización convierte algo desagradable en algo insoportable o absolutamente desastroso. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la catastrofización convierte algo desagradable en algo insoportable o absolutamente desastroso. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Un error en el trabajo se interpreta como el fin de toda posibilidad futura.",
+      "reflectionQuestion": "¿Cómo describir un problema sin minimizarlo ni exagerarlo?",
+      "experienceQuestion": "¿Qué dificultad describiste alguna vez como «lo peor»?",
+      "quiz": [
+        {
+          "question": "¿Cuál es una valoración proporcionada?",
+          "options": [
+            "Mi vida está arruinada",
+            "No tiene solución posible",
+            "Es difícil, pero puedo afrontarlo"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Es difícil, pero puedo afrontarlo». La catastrofización convierte algo desagradable en algo insoportable o absolutamente desastroso."
+        }
+      ],
+      "dailyChallenge": "Usá una descripción precisa sin «todo» o «nunca».",
+      "closingMessage": "Cada vez que practicás cuando todo parece terrible, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 15,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Tolerar la frustración",
+      "objective": "Aprender a trabajar con esta habilidad: tolerar la frustración.",
+      "reading": "Que algo sea incómodo o injusto no significa necesariamente que sea imposible de soportar. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: que algo sea incómodo o injusto no significa necesariamente que sea imposible de soportar. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Un trámite tarda más de lo esperado y alguien decide esperar o buscar alternativas.",
+      "reflectionQuestion": "¿Qué diferencia existe entre desagradable e insoportable?",
+      "experienceQuestion": "¿Qué pequeña frustración lograste atravesar?",
+      "quiz": [
+        {
+          "question": "¿Qué frase ayuda?",
+          "options": [
+            "Deben resolverlo ya",
+            "No me gusta, pero puedo manejarlo",
+            "No lo soporto ni un segundo"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «No me gusta, pero puedo manejarlo». Que algo sea incómodo o injusto no significa necesariamente que sea imposible de soportar."
+        }
+      ],
+      "dailyChallenge": "Practicá tolerar una demora breve sin reaccionar agresivamente.",
+      "closingMessage": "Cada vez que practicás tolerar la frustración, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 16,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Necesidad de aprobación",
+      "objective": "Aprender a trabajar con esta habilidad: necesidad de aprobación.",
+      "reading": "Desear aceptación es humano; convertirla en condición para valer puede intensificar miedo y enojo. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: desear aceptación es humano; convertirla en condición para valer puede intensificar miedo y enojo. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien recibe una crítica y concluye que no vale nada.",
+      "reflectionQuestion": "¿Qué cambia si tu valor no depende de una opinión?",
+      "experienceQuestion": "¿Qué crítica te costó escuchar?",
+      "quiz": [
+        {
+          "question": "¿Qué idea es más equilibrada?",
+          "options": [
+            "Puedo aprender sin dejar de valer",
+            "Necesito agradar a todos",
+            "Una crítica define quién soy"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Puedo aprender sin dejar de valer». Desear aceptación es humano; convertirla en condición para valer puede intensificar miedo y enojo."
+        }
+      ],
+      "dailyChallenge": "Escribí una cualidad propia independiente de la aprobación.",
+      "closingMessage": "Cada vez que practicás necesidad de aprobación, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-04",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 17,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "No convertir errores en etiquetas",
+      "objective": "Aprender a trabajar con esta habilidad: no convertir errores en etiquetas.",
+      "reading": "Una conducta equivocada no define el valor completo de una persona. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una conducta equivocada no define el valor completo de una persona. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Tras responder mal, alguien se llama «un desastre» en lugar de revisar su acción.",
+      "reflectionQuestion": "¿Cómo reconocer responsabilidad sin descalificarte?",
+      "experienceQuestion": "¿Qué etiqueta dura te has puesto alguna vez?",
+      "quiz": [
+        {
+          "question": "¿Qué frase es más útil?",
+          "options": [
+            "Soy un fracaso total",
+            "Nunca cambiaré",
+            "Me equivoqué y puedo reparar"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Me equivoqué y puedo reparar». Una conducta equivocada no define el valor completo de una persona."
+        }
+      ],
+      "dailyChallenge": "Sustituí una etiqueta por la descripción de una conducta.",
+      "closingMessage": "Cada vez que practicás no convertir errores en etiquetas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 18,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Pensamientos automáticos",
+      "objective": "Aprender a trabajar con esta habilidad: pensamientos automáticos.",
+      "reading": "Algunas interpretaciones aparecen tan rápido que parecen hechos; detenerse permite identificarlas. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: algunas interpretaciones aparecen tan rápido que parecen hechos; detenerse permite identificarlas. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Ante una mirada seria, alguien piensa enseguida «está enojado conmigo».",
+      "reflectionQuestion": "¿Cómo podrías comprobar una suposición?",
+      "experienceQuestion": "¿Qué pensamiento aparece primero ante una contrariedad?",
+      "quiz": [
+        {
+          "question": "¿Qué conviene hacer con una suposición?",
+          "options": [
+            "Acusar de inmediato",
+            "Reconocerla y contrastarla",
+            "Tomarla como prueba"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Reconocerla y contrastarla». Algunas interpretaciones aparecen tan rápido que parecen hechos; detenerse permite identificarlas."
+        }
+      ],
+      "dailyChallenge": "Anotá un pensamiento automático sin asumir que es cierto.",
+      "closingMessage": "Cada vez que practicás pensamientos automáticos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 19,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Creencias frecuentes",
+      "objective": "Aprender a trabajar con esta habilidad: creencias frecuentes.",
+      "reading": "Repetir ciertas ideas puede reforzar patrones de ira; identificarlas facilita trabajar en ellas. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: repetir ciertas ideas puede reforzar patrones de ira; identificarlas facilita trabajar en ellas. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona descubre que suele pensar «nadie me escucha».",
+      "reflectionQuestion": "¿Qué frase se repite cuando te frustrás?",
+      "experienceQuestion": "¿Qué palabras absolutas aparecen en esa frase?",
+      "quiz": [
+        {
+          "question": "¿Qué revela un patrón?",
+          "options": [
+            "Una oportunidad de aprendizaje",
+            "Un destino inmutable",
+            "Una prueba de maldad"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Una oportunidad de aprendizaje». Repetir ciertas ideas puede reforzar patrones de ira; identificarlas facilita trabajar en ellas."
+        }
+      ],
+      "dailyChallenge": "Registrá una creencia recurrente y una alternativa.",
+      "closingMessage": "Cada vez que practicás creencias frecuentes, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 20,
+      "unit": 2,
+      "unitTitle": "Pensamientos y creencias",
+      "title": "Mi primer ABCDE",
+      "objective": "Aprender a trabajar con esta habilidad: mi primer abcde.",
+      "reading": "El paso D consiste en cuestionar creencias y E en construir una perspectiva más eficaz y flexible. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: el paso D consiste en cuestionar creencias y E en construir una perspectiva más eficaz y flexible. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Tras una cancelación, alguien cuestiona «es intolerable» y piensa «es molesto, puedo reorganizarme».",
+      "reflectionQuestion": "¿Qué pregunta te ayudaría a revisar una creencia?",
+      "experienceQuestion": "Elegí una situación leve y completá A, B, C, D y E.",
+      "quiz": [
+        {
+          "question": "¿Qué significa D en ABCDE?",
+          "options": [
+            "Desahogarse agrediendo",
+            "Desconocer el problema",
+            "Debatir o cuestionar la creencia"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Debatir o cuestionar la creencia». El paso D consiste en cuestionar creencias y E en construir una perspectiva más eficaz y flexible."
+        }
+      ],
+      "dailyChallenge": "Escribí un ABCDE breve.",
+      "closingMessage": "Cada vez que practicás mi primer abcde, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-05",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 21,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Preguntar antes de reaccionar",
+      "objective": "Aprender a trabajar con esta habilidad: preguntar antes de reaccionar.",
+      "reading": "Una pregunta interna puede abrir espacio entre impulso y acción: «¿qué sé realmente?». En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una pregunta interna puede abrir espacio entre impulso y acción: «¿qué sé realmente?». No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Un comentario ambiguo se interpreta como ataque hasta que alguien pide aclaración.",
+      "reflectionQuestion": "¿Qué pregunta te ayuda a frenar conclusiones?",
+      "experienceQuestion": "¿Cuándo habría sido útil pedir aclaración?",
+      "quiz": [
+        {
+          "question": "¿Qué conducta reduce suposiciones?",
+          "options": [
+            "Interrumpir para acusar",
+            "Pedir aclaración",
+            "Adivinar intenciones"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Pedir aclaración». Una pregunta interna puede abrir espacio entre impulso y acción: «¿qué sé realmente?»."
+        }
+      ],
+      "dailyChallenge": "Antes de asumir algo, formulá una pregunta respetuosa.",
+      "closingMessage": "Cada vez que practicás preguntar antes de reaccionar, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 22,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Buscar evidencia",
+      "objective": "Aprender a trabajar con esta habilidad: buscar evidencia.",
+      "reading": "Las creencias pueden contrastarse con datos a favor y en contra sin negar experiencias reales. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: las creencias pueden contrastarse con datos a favor y en contra sin negar experiencias reales. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien piensa «nunca me ayudan» y recuerda dos ocasiones distintas.",
+      "reflectionQuestion": "¿Cómo revisar una idea sin invalidar tu malestar?",
+      "experienceQuestion": "¿Qué afirmación absoluta podrías contrastar?",
+      "quiz": [
+        {
+          "question": "¿Qué pregunta es útil?",
+          "options": [
+            "¿Qué pruebas tengo?",
+            "¿Cómo obligo a que me den razón?",
+            "¿Por qué siempre me pasa todo?"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «¿Qué pruebas tengo?». Las creencias pueden contrastarse con datos a favor y en contra sin negar experiencias reales."
+        }
+      ],
+      "dailyChallenge": "Anotá una evidencia a favor y otra en contra.",
+      "closingMessage": "Cada vez que practicás buscar evidencia, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 23,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "No leer la mente",
+      "objective": "Aprender a trabajar con esta habilidad: no leer la mente.",
+      "reading": "Atribuir intenciones sin preguntar puede aumentar resentimiento y conflicto. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: atribuir intenciones sin preguntar puede aumentar resentimiento y conflicto. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona calla durante una reunión y otra asume desprecio.",
+      "reflectionQuestion": "¿Qué alternativas pueden explicar el silencio?",
+      "experienceQuestion": "¿Qué intención ajena diste por segura?",
+      "quiz": [
+        {
+          "question": "¿Qué es una interpretación?",
+          "options": [
+            "Una prueba definitiva",
+            "Un diagnóstico",
+            "Una hipótesis revisable"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Una hipótesis revisable». Atribuir intenciones sin preguntar puede aumentar resentimiento y conflicto."
+        }
+      ],
+      "dailyChallenge": "Escribí dos explicaciones posibles antes de concluir.",
+      "closingMessage": "Cada vez que practicás no leer la mente, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 24,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Preferir no es exigir",
+      "objective": "Aprender a trabajar con esta habilidad: preferir no es exigir.",
+      "reading": "Las preferencias permiten pedir y negociar; las exigencias absolutas suelen aumentar frustración. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: las preferencias permiten pedir y negociar; las exigencias absolutas suelen aumentar frustración. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "«Me gustaría puntualidad» deja espacio para dialogar; «nadie puede llegar tarde» no.",
+      "reflectionQuestion": "¿Qué petición sería más clara que una exigencia?",
+      "experienceQuestion": "Transformá una orden habitual en una solicitud.",
+      "quiz": [
+        {
+          "question": "¿Qué frase es una preferencia?",
+          "options": [
+            "Todos deben obedecerme",
+            "Me gustaría que acordáramos una hora",
+            "Tenés prohibido retrasarte"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Me gustaría que acordáramos una hora». Las preferencias permiten pedir y negociar; las exigencias absolutas suelen aumentar frustración."
+        }
+      ],
+      "dailyChallenge": "Pedí algo con claridad y aceptá una respuesta diferente.",
+      "closingMessage": "Cada vez que practicás preferir no es exigir, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-06",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 25,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Cambiar pensamientos extremos",
+      "objective": "Aprender a trabajar con esta habilidad: cambiar pensamientos extremos.",
+      "reading": "Términos como «todo», «nada» y «siempre» pueden borrar matices importantes. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: términos como «todo», «nada» y «siempre» pueden borrar matices importantes. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Un desacuerdo se convierte mentalmente en «nada funciona».",
+      "reflectionQuestion": "¿Qué matices faltan en las frases extremas?",
+      "experienceQuestion": "¿Qué afirmación absoluta podés matizar?",
+      "quiz": [
+        {
+          "question": "¿Cuál frase tiene matices?",
+          "options": [
+            "Hoy hubo un desacuerdo",
+            "Nunca hacemos nada bien",
+            "Todo está perdido"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Hoy hubo un desacuerdo». Términos como «todo», «nada» y «siempre» pueden borrar matices importantes."
+        }
+      ],
+      "dailyChallenge": "Reescribí una frase extrema con datos concretos.",
+      "closingMessage": "Cada vez que practicás cambiar pensamientos extremos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 26,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Aceptar diferencias",
+      "objective": "Aprender a trabajar con esta habilidad: aceptar diferencias.",
+      "reading": "Otras personas pueden pensar distinto sin que esa diferencia sea una agresión. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: otras personas pueden pensar distinto sin que esa diferencia sea una agresión. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Dos familiares discrepan sobre cómo organizar un fin de semana.",
+      "reflectionQuestion": "¿Qué diferencia te cuesta aceptar?",
+      "experienceQuestion": "¿Cómo podrías expresar desacuerdo sin descalificar?",
+      "quiz": [
+        {
+          "question": "¿Qué demuestra respeto?",
+          "options": [
+            "Exigir coincidencia",
+            "Ridiculizar al otro",
+            "Discrepar sin atacar"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Discrepar sin atacar». Otras personas pueden pensar distinto sin que esa diferencia sea una agresión."
+        }
+      ],
+      "dailyChallenge": "Escuchá una opinión diferente sin interrumpir, si es seguro.",
+      "closingMessage": "Cada vez que practicás aceptar diferencias, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 27,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Autoaceptación responsable",
+      "objective": "Aprender a trabajar con esta habilidad: autoaceptación responsable.",
+      "reading": "Aceptar la propia dignidad no equivale a aprobar conductas dañinas; ambas ideas pueden coexistir. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: aceptar la propia dignidad no equivale a aprobar conductas dañinas; ambas ideas pueden coexistir. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien reconoce que gritó, pide disculpas y trabaja en prevenirlo.",
+      "reflectionQuestion": "¿Qué significa aceptarte y hacerte responsable?",
+      "experienceQuestion": "¿Qué error podés describir sin etiquetarte?",
+      "quiz": [
+        {
+          "question": "¿Qué combina aceptación y responsabilidad?",
+          "options": [
+            "Castigarse sin actuar",
+            "Reconocer daño y cambiar",
+            "Negar consecuencias"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Reconocer daño y cambiar». Aceptar la propia dignidad no equivale a aprobar conductas dañinas; ambas ideas pueden coexistir."
+        }
+      ],
+      "dailyChallenge": "Escribí «Hice…, puedo reparar mediante…».",
+      "closingMessage": "Cada vez que practicás autoaceptación responsable, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 28,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Injusticia y frustración",
+      "objective": "Aprender a trabajar con esta habilidad: injusticia y frustración.",
+      "reading": "Podemos identificar una injusticia real y responder con firmeza sin asumir que la agresión resolverá el problema. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: podemos identificar una injusticia real y responder con firmeza sin asumir que la agresión resolverá el problema. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona recibe un cobro incorrecto y presenta un reclamo claro.",
+      "reflectionQuestion": "¿Qué acción efectiva podrías tomar ante algo injusto?",
+      "experienceQuestion": "¿Qué problema merece un límite concreto?",
+      "quiz": [
+        {
+          "question": "¿Qué respuesta es constructiva?",
+          "options": [
+            "Reclamar con claridad y límites",
+            "Insultar al responsable",
+            "Aceptar todo sin protestar"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Reclamar con claridad y límites». Podemos identificar una injusticia real y responder con firmeza sin asumir que la agresión resolverá el problema."
+        }
+      ],
+      "dailyChallenge": "Redactá una petición firme y respetuosa.",
+      "closingMessage": "Cada vez que practicás injusticia y frustración, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-07",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 29,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "Pensamiento flexible",
+      "objective": "Aprender a trabajar con esta habilidad: pensamiento flexible.",
+      "reading": "Una creencia flexible reconoce dificultades, incertidumbre y posibilidades de acción. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una creencia flexible reconoce dificultades, incertidumbre y posibilidades de acción. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Un plan cambia y alguien piensa «no me gusta, pero puedo adaptarme».",
+      "reflectionQuestion": "¿Qué gana una persona al pensar con flexibilidad?",
+      "experienceQuestion": "¿Qué frase rígida querés reformular?",
+      "quiz": [
+        {
+          "question": "¿Qué frase muestra flexibilidad?",
+          "options": [
+            "Nada puede cambiar",
+            "Todo debe salir perfecto",
+            "Puedo buscar otra opción"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Puedo buscar otra opción». Una creencia flexible reconoce dificultades, incertidumbre y posibilidades de acción."
+        }
+      ],
+      "dailyChallenge": "Convertí una exigencia en una alternativa realista.",
+      "closingMessage": "Cada vez que practicás pensamiento flexible, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 30,
+      "unit": 3,
+      "unitTitle": "Cuestionar creencias",
+      "title": "ABCDE en un conflicto",
+      "objective": "Aprender a trabajar con esta habilidad: abcde en un conflicto.",
+      "reading": "El ABCDE permite revisar una situación concreta sin negar necesidades ni responsabilidades. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: el ABCDE permite revisar una situación concreta sin negar necesidades ni responsabilidades. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una crítica despierta ira; al cuestionar «no pueden criticarme», alguien responde con preguntas.",
+      "reflectionQuestion": "¿Qué parte del ABCDE te resultó más útil?",
+      "experienceQuestion": "Aplicá ABCDE a un desacuerdo pequeño y seguro.",
+      "quiz": [
+        {
+          "question": "¿Qué busca E?",
+          "options": [
+            "Dar siempre la razón",
+            "Una respuesta más eficaz",
+            "No sentir nunca nada"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Una respuesta más eficaz». El ABCDE permite revisar una situación concreta sin negar necesidades ni responsabilidades."
+        }
+      ],
+      "dailyChallenge": "Completá un ABCDE y guardalo.",
+      "closingMessage": "Cada vez que practicás abcde en un conflicto, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 31,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Reconocer la escalada",
+      "objective": "Aprender a trabajar con esta habilidad: reconocer la escalada.",
+      "reading": "La ira suele aumentar por etapas; detectar señales tempranas ayuda a elegir una pausa. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la ira suele aumentar por etapas; detectar señales tempranas ayuda a elegir una pausa. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien pasa de inquietud a tensión muscular y luego a hablar más fuerte.",
+      "reflectionQuestion": "¿Cuál es tu primera señal de escalada?",
+      "experienceQuestion": "¿Qué ocurre antes de elevar la voz?",
+      "quiz": [
+        {
+          "question": "¿Cuándo es más útil intervenir?",
+          "options": [
+            "Ante las primeras señales",
+            "Solo después de dañar",
+            "Cuando otros cedan"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Ante las primeras señales». La ira suele aumentar por etapas; detectar señales tempranas ayuda a elegir una pausa."
+        }
+      ],
+      "dailyChallenge": "Definí tu señal personal de «necesito parar».",
+      "closingMessage": "Cada vez que practicás reconocer la escalada, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 32,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "La pausa segura",
+      "objective": "Aprender a trabajar con esta habilidad: la pausa segura.",
+      "reading": "Detener una discusión puede proteger a todos si se hace sin amenazas y sin impedir que otros se retiren. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: detener una discusión puede proteger a todos si se hace sin amenazas y sin impedir que otros se retiren. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona dice que necesita 20 minutos y deja de discutir.",
+      "reflectionQuestion": "¿Qué hace que una pausa sea respetuosa?",
+      "experienceQuestion": "¿Qué frase usarías para pedir tiempo?",
+      "quiz": [
+        {
+          "question": "¿Qué define una pausa segura?",
+          "options": [
+            "Bloquear una salida",
+            "Castigar con silencio indefinido",
+            "Alejarse sin intimidar"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Alejarse sin intimidar». Detener una discusión puede proteger a todos si se hace sin amenazas y sin impedir que otros se retiren."
+        }
+      ],
+      "dailyChallenge": "Practicá decir «necesito una pausa» en voz tranquila.",
+      "closingMessage": "Cada vez que practicás la pausa segura, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-08",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 33,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Respirar con suavidad",
+      "objective": "Aprender a trabajar con esta habilidad: respirar con suavidad.",
+      "reading": "La respiración lenta y cómoda puede ayudar a regular la activación; no es obligatorio contar ni retener el aire. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la respiración lenta y cómoda puede ayudar a regular la activación; no es obligatorio contar ni retener el aire. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Antes de responder, alguien exhala despacio durante unos instantes.",
+      "reflectionQuestion": "¿Cómo notás tu respiración cuando te alterás?",
+      "experienceQuestion": "¿Qué ejercicio de respiración te resulta cómodo?",
+      "quiz": [
+        {
+          "question": "¿Qué conviene evitar?",
+          "options": [
+            "Detenerse si hay malestar",
+            "Forzar la respiración hasta marearse",
+            "Respirar cómodamente"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Forzar la respiración hasta marearse». La respiración lenta y cómoda puede ayudar a regular la activación; no es obligatorio contar ni retener el aire."
+        }
+      ],
+      "dailyChallenge": "Probá tres exhalaciones suaves; detenete si incomoda.",
+      "closingMessage": "Cada vez que practicás respirar con suavidad, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 34,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Relajar músculos",
+      "objective": "Aprender a trabajar con esta habilidad: relajar músculos.",
+      "reading": "Contraer y soltar suavemente algunos músculos puede ayudar a notar y disminuir tensión. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: contraer y soltar suavemente algunos músculos puede ayudar a notar y disminuir tensión. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona relaja hombros y manos después de una jornada difícil.",
+      "reflectionQuestion": "¿Dónde acumulás tensión?",
+      "experienceQuestion": "¿Qué parte del cuerpo podrías relajar ahora?",
+      "quiz": [
+        {
+          "question": "¿Qué busca la relajación?",
+          "options": [
+            "Reconocer y reducir tensión",
+            "Eliminar toda emoción",
+            "Ignorar el cuerpo"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Reconocer y reducir tensión». Contraer y soltar suavemente algunos músculos puede ayudar a notar y disminuir tensión."
+        }
+      ],
+      "dailyChallenge": "Soltá hombros y mandíbula durante un minuto.",
+      "closingMessage": "Cada vez que practicás relajar músculos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 35,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Reducir estímulos",
+      "objective": "Aprender a trabajar con esta habilidad: reducir estímulos.",
+      "reading": "En momentos intensos puede ayudar alejarse del ruido, las pantallas o una conversación conflictiva, si es seguro. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: en momentos intensos puede ayudar alejarse del ruido, las pantallas o una conversación conflictiva, si es seguro. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien apaga notificaciones para no responder impulsivamente.",
+      "reflectionQuestion": "¿Qué estímulos aumentan tu irritación?",
+      "experienceQuestion": "¿Qué cambio ambiental te ayudaría?",
+      "quiz": [
+        {
+          "question": "¿Qué opción suele ayudar?",
+          "options": [
+            "Seguir discutiendo sin parar",
+            "Enviar más mensajes impulsivos",
+            "Reducir estímulos cuando sea seguro"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Reducir estímulos cuando sea seguro». En momentos intensos puede ayudar alejarse del ruido, las pantallas o una conversación conflictiva, si es seguro."
+        }
+      ],
+      "dailyChallenge": "Elegí un espacio tranquilo para una pausa breve.",
+      "closingMessage": "Cada vez que practicás reducir estímulos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 36,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "No actuar por impulso",
+      "objective": "Aprender a trabajar con esta habilidad: no actuar por impulso.",
+      "reading": "Un impulso es una urgencia, no una obligación; podemos esperar y elegir otra conducta. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un impulso es una urgencia, no una obligación; podemos esperar y elegir otra conducta. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona quiere enviar un mensaje hiriente, pero lo deja sin enviar.",
+      "reflectionQuestion": "¿Qué diferencia hay entre impulso y decisión?",
+      "experienceQuestion": "¿Qué impulso te gustaría aprender a posponer?",
+      "quiz": [
+        {
+          "question": "¿Qué es una respuesta elegida?",
+          "options": [
+            "Una reacción automática",
+            "Una acción revisada antes de hacerla",
+            "La primera urgencia"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Una acción revisada antes de hacerla». Un impulso es una urgencia, no una obligación; podemos esperar y elegir otra conducta."
+        }
+      ],
+      "dailyChallenge": "Esperá unos minutos antes de enviar un mensaje difícil.",
+      "closingMessage": "Cada vez que practicás no actuar por impulso, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-09",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 37,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Avisar que necesito tiempo",
+      "objective": "Aprender a trabajar con esta habilidad: avisar que necesito tiempo.",
+      "reading": "Pedir una pausa de forma clara ayuda a evitar malentendidos; si es posible, se puede proponer retomar después. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: pedir una pausa de forma clara ayuda a evitar malentendidos; si es posible, se puede proponer retomar después. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien dice «no puedo hablar bien ahora; retomemos más tarde».",
+      "reflectionQuestion": "¿Cómo pedirías tiempo sin culpar?",
+      "experienceQuestion": "¿Qué frase breve te gustaría practicar?",
+      "quiz": [
+        {
+          "question": "¿Qué frase es adecuada?",
+          "options": [
+            "Necesito tiempo para tranquilizarme",
+            "Si seguís, vas a ver",
+            "No te hablaré para castigarte"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Necesito tiempo para tranquilizarme». Pedir una pausa de forma clara ayuda a evitar malentendidos; si es posible, se puede proponer retomar después."
+        }
+      ],
+      "dailyChallenge": "Ensayá una petición de pausa con tono neutro.",
+      "closingMessage": "Cada vez que practicás avisar que necesito tiempo, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 38,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Responder sin gritar",
+      "objective": "Aprender a trabajar con esta habilidad: responder sin gritar.",
+      "reading": "La firmeza no depende del volumen; hablar de hechos y necesidades facilita la comunicación. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la firmeza no depende del volumen; hablar de hechos y necesidades facilita la comunicación. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona expresa desacuerdo con voz moderada y límites claros.",
+      "reflectionQuestion": "¿Qué te ayuda a bajar el tono de voz?",
+      "experienceQuestion": "¿Qué frase podrías decir con firmeza y respeto?",
+      "quiz": [
+        {
+          "question": "¿Qué expresa firmeza?",
+          "options": [
+            "Hablar más fuerte",
+            "Humillar para ganar",
+            "Un límite claro sin insultos"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Un límite claro sin insultos». La firmeza no depende del volumen; hablar de hechos y necesidades facilita la comunicación."
+        }
+      ],
+      "dailyChallenge": "Practicá una petición clara en voz moderada.",
+      "closingMessage": "Cada vez que practicás responder sin gritar, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 39,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Elegir alternativas",
+      "objective": "Aprender a trabajar con esta habilidad: elegir alternativas.",
+      "reading": "Preparar opciones de respuesta antes de una discusión facilita actuar de otro modo. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: preparar opciones de respuesta antes de una discusión facilita actuar de otro modo. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Ante una interrupción, alguien elige pedir turno en vez de atacar.",
+      "reflectionQuestion": "¿Qué tres opciones tenés ante una molestia?",
+      "experienceQuestion": "¿Cuál alternativa te resulta más realista?",
+      "quiz": [
+        {
+          "question": "¿Qué aumenta nuestras opciones?",
+          "options": [
+            "Culpar a otros",
+            "Preparar alternativas",
+            "Repetir la misma reacción"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Preparar alternativas». Preparar opciones de respuesta antes de una discusión facilita actuar de otro modo."
+        }
+      ],
+      "dailyChallenge": "Anotá dos respuestas seguras a un detonante.",
+      "closingMessage": "Cada vez que practicás elegir alternativas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 40,
+      "unit": 4,
+      "unitTitle": "Regular emociones y conductas",
+      "title": "Mi plan de pausa",
+      "objective": "Aprender a trabajar con esta habilidad: mi plan de pausa.",
+      "reading": "Un plan breve reúne señales, acciones seguras y apoyos disponibles para usar cuando el enojo sube. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un plan breve reúne señales, acciones seguras y apoyos disponibles para usar cuando el enojo sube. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien identifica tensión, se aparta de forma segura y contacta apoyo si lo necesita.",
+      "reflectionQuestion": "¿Qué debería incluir tu plan personal?",
+      "experienceQuestion": "¿Qué apoyo humano tenés disponible?",
+      "quiz": [
+        {
+          "question": "¿Qué integra un plan útil?",
+          "options": [
+            "Señal, acción segura y apoyo",
+            "Amenazas y castigos",
+            "Solo una promesa vaga"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Señal, acción segura y apoyo». Un plan breve reúne señales, acciones seguras y apoyos disponibles para usar cuando el enojo sube."
+        }
+      ],
+      "dailyChallenge": "Escribí señal, pausa y siguiente paso seguro.",
+      "closingMessage": "Cada vez que practicás mi plan de pausa, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-10",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 41,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Hablar desde lo que siento",
+      "objective": "Aprender a trabajar con esta habilidad: hablar desde lo que siento.",
+      "reading": "Las frases en primera persona permiten comunicar emociones sin presentar acusaciones como hechos. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: las frases en primera persona permiten comunicar emociones sin presentar acusaciones como hechos. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "«Me siento frustrada cuando cambiamos planes sin hablarlo» describe una experiencia.",
+      "reflectionQuestion": "¿Qué cambia al usar «yo siento»?",
+      "experienceQuestion": "¿Qué acusación podrías reformular?",
+      "quiz": [
+        {
+          "question": "¿Cuál frase habla desde mí?",
+          "options": [
+            "Sos una persona horrible",
+            "Siempre arruinás todo",
+            "Me siento preocupada por el cambio"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Me siento preocupada por el cambio». Las frases en primera persona permiten comunicar emociones sin presentar acusaciones como hechos."
+        }
+      ],
+      "dailyChallenge": "Convertí un reproche en una frase en primera persona.",
+      "closingMessage": "Cada vez que practicás hablar desde lo que siento, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 42,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Escuchar para comprender",
+      "objective": "Aprender a trabajar con esta habilidad: escuchar para comprender.",
+      "reading": "Escuchar no implica dar la razón; permite entender antes de responder. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: escuchar no implica dar la razón; permite entender antes de responder. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien repite con sus palabras lo que escuchó antes de discrepar.",
+      "reflectionQuestion": "¿Qué diferencia hay entre escuchar y aceptar?",
+      "experienceQuestion": "¿Cuándo interrumpís para defenderte?",
+      "quiz": [
+        {
+          "question": "¿Qué favorece comprensión?",
+          "options": [
+            "Interrumpir",
+            "Verificar lo escuchado",
+            "Preparar ataques"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Verificar lo escuchado». Escuchar no implica dar la razón; permite entender antes de responder."
+        }
+      ],
+      "dailyChallenge": "Preguntá «¿entendí bien que…?» en una conversación segura.",
+      "closingMessage": "Cada vez que practicás escuchar para comprender, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 43,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Pedir sin imponer",
+      "objective": "Aprender a trabajar con esta habilidad: pedir sin imponer.",
+      "reading": "Una petición reconoce que la otra persona tiene autonomía; un límite expresa lo que uno hará para cuidarse. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una petición reconoce que la otra persona tiene autonomía; un límite expresa lo que uno hará para cuidarse. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona solicita conversar y acepta acordar otro momento.",
+      "reflectionQuestion": "¿Qué hace que una petición sea respetuosa?",
+      "experienceQuestion": "¿Qué deseo podrías expresar sin amenaza?",
+      "quiz": [
+        {
+          "question": "¿Qué es una petición?",
+          "options": [
+            "Una solicitud que admite respuesta",
+            "Una amenaza disfrazada",
+            "Una orden incuestionable"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Una solicitud que admite respuesta». Una petición reconoce que la otra persona tiene autonomía; un límite expresa lo que uno hará para cuidarse."
+        }
+      ],
+      "dailyChallenge": "Hacé una petición concreta y sin ultimátum.",
+      "closingMessage": "Cada vez que practicás pedir sin imponer, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 44,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Aceptar desacuerdos",
+      "objective": "Aprender a trabajar con esta habilidad: aceptar desacuerdos.",
+      "reading": "Discrepar no significa necesariamente rechazo; podemos sostener valores propios sin forzar coincidencia. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: discrepar no significa necesariamente rechazo; podemos sostener valores propios sin forzar coincidencia. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Dos personas eligen actividades distintas y buscan un acuerdo posible.",
+      "reflectionQuestion": "¿Qué desacuerdo podrías tolerar mejor?",
+      "experienceQuestion": "¿Qué sentís cuando alguien no coincide con vos?",
+      "quiz": [
+        {
+          "question": "¿Qué permite un desacuerdo sano?",
+          "options": [
+            "Humillación",
+            "Obediencia obligatoria",
+            "Respeto y límites"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Respeto y límites». Discrepar no significa necesariamente rechazo; podemos sostener valores propios sin forzar coincidencia."
+        }
+      ],
+      "dailyChallenge": "Practicá decir «entiendo que pensamos distinto».",
+      "closingMessage": "Cada vez que practicás aceptar desacuerdos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-11",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 45,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Límites respetuosos",
+      "objective": "Aprender a trabajar con esta habilidad: límites respetuosos.",
+      "reading": "Un límite describe conductas que no aceptaremos y acciones propias de protección, no control sobre otros. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un límite describe conductas que no aceptaremos y acciones propias de protección, no control sobre otros. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien decide retirarse si comienzan los insultos.",
+      "reflectionQuestion": "¿Qué diferencia existe entre límite y castigo?",
+      "experienceQuestion": "¿Qué límite personal necesitás definir?",
+      "quiz": [
+        {
+          "question": "¿Cuál es un límite?",
+          "options": [
+            "Voy a castigarte",
+            "Si hay insultos, me retiraré",
+            "Te obligaré a pensar igual"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Si hay insultos, me retiraré». Un límite describe conductas que no aceptaremos y acciones propias de protección, no control sobre otros."
+        }
+      ],
+      "dailyChallenge": "Escribí un límite con una acción propia y segura.",
+      "closingMessage": "Cada vez que practicás límites respetuosos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 46,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Evitar insultos y amenazas",
+      "objective": "Aprender a trabajar con esta habilidad: evitar insultos y amenazas.",
+      "reading": "Los insultos y amenazas dañan la seguridad; detenerse antes de usarlos es una habilidad prioritaria. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: los insultos y amenazas dañan la seguridad; detenerse antes de usarlos es una habilidad prioritaria. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Al sentir que va a insultar, alguien interrumpe la conversación y se aparta.",
+      "reflectionQuestion": "¿Qué señales anuncian que podrías decir algo hiriente?",
+      "experienceQuestion": "¿Qué frase alternativa podrías preparar?",
+      "quiz": [
+        {
+          "question": "¿Qué protege la seguridad?",
+          "options": [
+            "Detener la escalada y buscar apoyo",
+            "Amenazar con daño",
+            "Bloquear la salida"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Detener la escalada y buscar apoyo». Los insultos y amenazas dañan la seguridad; detenerse antes de usarlos es una habilidad prioritaria."
+        }
+      ],
+      "dailyChallenge": "Escribí una frase para interrumpir sin amenazar.",
+      "closingMessage": "Cada vez que practicás evitar insultos y amenazas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 47,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Responsabilidad personal",
+      "objective": "Aprender a trabajar con esta habilidad: responsabilidad personal.",
+      "reading": "Reconocer nuestra conducta no implica cargar con decisiones ajenas ni negar el contexto. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: reconocer nuestra conducta no implica cargar con decisiones ajenas ni negar el contexto. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien dice «levanté la voz; fue mi decisión y quiero cambiarla».",
+      "reflectionQuestion": "¿Qué significa asumir responsabilidad sin humillarte?",
+      "experienceQuestion": "¿Qué conducta concreta podés reconocer?",
+      "quiz": [
+        {
+          "question": "¿Qué frase asume responsabilidad?",
+          "options": [
+            "Me obligaron a hacerlo",
+            "Soy irremediablemente malo",
+            "Yo levanté la voz y debo repararlo"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Yo levanté la voz y debo repararlo». Reconocer nuestra conducta no implica cargar con decisiones ajenas ni negar el contexto."
+        }
+      ],
+      "dailyChallenge": "Describí una acción propia sin justificarla ni etiquetarte.",
+      "closingMessage": "Cada vez que practicás responsabilidad personal, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 48,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Disculpas sinceras",
+      "objective": "Aprender a trabajar con esta habilidad: disculpas sinceras.",
+      "reading": "Una disculpa reconoce el daño, evita excusas y respeta que la otra persona decida cómo continuar. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una disculpa reconoce el daño, evita excusas y respeta que la otra persona decida cómo continuar. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien dice «te insulté, estuvo mal y trabajaré para que no se repita».",
+      "reflectionQuestion": "¿Qué hace creíble una disculpa?",
+      "experienceQuestion": "¿Qué diferencia hay entre disculparse y exigir perdón?",
+      "quiz": [
+        {
+          "question": "¿Qué fortalece una disculpa?",
+          "options": [
+            "Culpar a la otra persona",
+            "Reconocer el daño y cambiar",
+            "Exigir perdón inmediato"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Reconocer el daño y cambiar». Una disculpa reconoce el daño, evita excusas y respeta que la otra persona decida cómo continuar."
+        }
+      ],
+      "dailyChallenge": "Escribí una disculpa que no incluya «pero».",
+      "closingMessage": "Cada vez que practicás disculpas sinceras, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-12",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 49,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Reparar con acciones",
+      "objective": "Aprender a trabajar con esta habilidad: reparar con acciones.",
+      "reading": "La reparación exige conductas sostenidas y respeto por los límites de quien fue afectado. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la reparación exige conductas sostenidas y respeto por los límites de quien fue afectado. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Tras gritar, una persona busca ayuda y practica pausas consistentes.",
+      "reflectionQuestion": "¿Qué acciones muestran un cambio real?",
+      "experienceQuestion": "¿Qué reparación segura sería apropiada en una situación leve?",
+      "quiz": [
+        {
+          "question": "¿Qué es reparar?",
+          "options": [
+            "Actuar para no repetir el daño",
+            "Prometer sin cambios",
+            "Comprar el perdón"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Actuar para no repetir el daño». La reparación exige conductas sostenidas y respeto por los límites de quien fue afectado."
+        }
+      ],
+      "dailyChallenge": "Elegí una acción concreta y sostenible de mejora.",
+      "closingMessage": "Cada vez que practicás reparar con acciones, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 50,
+      "unit": 5,
+      "unitTitle": "Comunicación y responsabilidad",
+      "title": "Resolver problemas",
+      "objective": "Aprender a trabajar con esta habilidad: resolver problemas.",
+      "reading": "Definir un problema, generar opciones y evaluar consecuencias permite actuar con menos impulsividad. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: definir un problema, generar opciones y evaluar consecuencias permite actuar con menos impulsividad. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Dos personas acuerdan horarios después de identificar el conflicto real.",
+      "reflectionQuestion": "¿Qué problema conviene separar de las emociones?",
+      "experienceQuestion": "¿Qué solución posible no habías considerado?",
+      "quiz": [
+        {
+          "question": "¿Qué favorece resolver problemas?",
+          "options": [
+            "Buscar culpables",
+            "Imponer una salida",
+            "Definir y evaluar opciones"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Definir y evaluar opciones». Definir un problema, generar opciones y evaluar consecuencias permite actuar con menos impulsividad."
+        }
+      ],
+      "dailyChallenge": "Escribí problema, dos opciones y un primer paso.",
+      "closingMessage": "Cada vez que practicás resolver problemas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 51,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Reconocer avances",
+      "objective": "Aprender a trabajar con esta habilidad: reconocer avances.",
+      "reading": "El progreso puede verse en pequeñas decisiones, incluso si el enojo sigue apareciendo. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: el progreso puede verse en pequeñas decisiones, incluso si el enojo sigue apareciendo. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien identifica una señal y hace una pausa antes de discutir.",
+      "reflectionQuestion": "¿Qué cambio pequeño merece reconocimiento?",
+      "experienceQuestion": "¿Qué hiciste distinto esta semana?",
+      "quiz": [
+        {
+          "question": "¿Qué cuenta como avance?",
+          "options": [
+            "Ganar cada discusión",
+            "Practicar una respuesta más segura",
+            "No sentir nunca ira"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Practicar una respuesta más segura». El progreso puede verse en pequeñas decisiones, incluso si el enojo sigue apareciendo."
+        }
+      ],
+      "dailyChallenge": "Anotá una habilidad que hayas practicado.",
+      "closingMessage": "Cada vez que practicás reconocer avances, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 52,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Señales tempranas",
+      "objective": "Aprender a trabajar con esta habilidad: señales tempranas.",
+      "reading": "Revisar las primeras señales permite intervenir antes de una escalada. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: revisar las primeras señales permite intervenir antes de una escalada. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien reconoce cansancio y tensión antes de una conversación difícil.",
+      "reflectionQuestion": "¿Cuál es tu señal más confiable?",
+      "experienceQuestion": "¿Qué pasó la última vez que la detectaste?",
+      "quiz": [
+        {
+          "question": "¿Qué es prevención?",
+          "options": [
+            "Actuar ante señales iniciales",
+            "Esperar hasta explotar",
+            "Negar la molestia"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Actuar ante señales iniciales». Revisar las primeras señales permite intervenir antes de una escalada."
+        }
+      ],
+      "dailyChallenge": "Creá una tarjeta con tres señales personales.",
+      "closingMessage": "Cada vez que practicás señales tempranas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-13",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 53,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Ensayar situaciones",
+      "objective": "Aprender a trabajar con esta habilidad: ensayar situaciones.",
+      "reading": "Practicar respuestas con situaciones leves ayuda a prepararnos sin exponernos a conflictos peligrosos. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: practicar respuestas con situaciones leves ayuda a prepararnos sin exponernos a conflictos peligrosos. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien ensaya cómo pedir tiempo antes de una reunión tensa.",
+      "reflectionQuestion": "¿Qué frase te gustaría ensayar?",
+      "experienceQuestion": "¿Qué escenario cotidiano y seguro podés imaginar?",
+      "quiz": [
+        {
+          "question": "¿Qué ensayo es recomendable?",
+          "options": [
+            "Provocar una pelea real",
+            "Revivir un trauma intenso",
+            "Uno breve y seguro"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Uno breve y seguro». Practicar respuestas con situaciones leves ayuda a prepararnos sin exponernos a conflictos peligrosos."
+        }
+      ],
+      "dailyChallenge": "Ensayá en voz baja una respuesta respetuosa.",
+      "closingMessage": "Cada vez que practicás ensayar situaciones, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 54,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Respuestas constructivas",
+      "objective": "Aprender a trabajar con esta habilidad: respuestas constructivas.",
+      "reading": "Una respuesta constructiva protege necesidades y seguridad sin buscar castigar ni humillar. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: una respuesta constructiva protege necesidades y seguridad sin buscar castigar ni humillar. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Ante una crítica, alguien pregunta qué puede mejorar y decide si acepta la observación.",
+      "reflectionQuestion": "¿Qué resultado querés lograr con tus respuestas?",
+      "experienceQuestion": "¿Qué alternativa sería más eficaz?",
+      "quiz": [
+        {
+          "question": "¿Qué hace constructiva una respuesta?",
+          "options": [
+            "Niega necesidades",
+            "Busca resolver sin dañar",
+            "Busca ganar a cualquier precio"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Busca resolver sin dañar». Una respuesta constructiva protege necesidades y seguridad sin buscar castigar ni humillar."
+        }
+      ],
+      "dailyChallenge": "Elegí una respuesta que acerque a tu objetivo sin agredir.",
+      "closingMessage": "Cada vez que practicás respuestas constructivas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 55,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Prepararme para contratiempos",
+      "objective": "Aprender a trabajar con esta habilidad: prepararme para contratiempos.",
+      "reading": "Los tropiezos no anulan el aprendizaje; permiten revisar señales, estrategias y apoyos. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: los tropiezos no anulan el aprendizaje; permiten revisar señales, estrategias y apoyos. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona vuelve a hablar bruscamente y decide analizar lo ocurrido después.",
+      "reflectionQuestion": "¿Cómo podrías aprender de un tropiezo?",
+      "experienceQuestion": "¿Qué estrategia falló o faltó en una ocasión leve?",
+      "quiz": [
+        {
+          "question": "¿Qué hacer ante un tropiezo?",
+          "options": [
+            "Revisar y ajustar el plan",
+            "Abandonar el programa",
+            "Culparse sin límite"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Revisar y ajustar el plan». Los tropiezos no anulan el aprendizaje; permiten revisar señales, estrategias y apoyos."
+        }
+      ],
+      "dailyChallenge": "Escribí un plan «si ocurre X, intentaré Y».",
+      "closingMessage": "Cada vez que practicás prepararme para contratiempos, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 56,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Reducir autocrítica destructiva",
+      "objective": "Aprender a trabajar con esta habilidad: reducir autocrítica destructiva.",
+      "reading": "La culpa útil orienta a reparar; la descalificación global puede dificultar el cambio. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la culpa útil orienta a reparar; la descalificación global puede dificultar el cambio. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien sustituye «soy terrible» por «hice daño y debo cambiar esa conducta».",
+      "reflectionQuestion": "¿Qué palabras te ayudan a asumir responsabilidad?",
+      "experienceQuestion": "¿Qué frase autocrítica podrías reformular?",
+      "quiz": [
+        {
+          "question": "¿Qué frase favorece cambio?",
+          "options": [
+            "Soy un caso perdido",
+            "No tengo que reparar nada",
+            "Puedo responsabilizarme y aprender"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Puedo responsabilizarme y aprender». La culpa útil orienta a reparar; la descalificación global puede dificultar el cambio."
+        }
+      ],
+      "dailyChallenge": "Escribí una frase responsable y compasiva.",
+      "closingMessage": "Cada vez que practicás reducir autocrítica destructiva, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-14",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 57,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Mis herramientas favoritas",
+      "objective": "Aprender a trabajar con esta habilidad: mis herramientas favoritas.",
+      "reading": "No todas las técnicas sirven igual a todas las personas; conviene identificar cuáles ayudan de forma segura. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: no todas las técnicas sirven igual a todas las personas; conviene identificar cuáles ayudan de forma segura. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona descubre que pedir una pausa le sirve más que escribir inmediatamente.",
+      "reflectionQuestion": "¿Qué herramienta te ha resultado más útil?",
+      "experienceQuestion": "¿Cuándo te funcionó y cuándo no?",
+      "quiz": [
+        {
+          "question": "¿Qué criterio conviene usar?",
+          "options": [
+            "Que impresione a otros",
+            "Seguridad y utilidad personal",
+            "Que funcione siempre para todos"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Seguridad y utilidad personal». No todas las técnicas sirven igual a todas las personas; conviene identificar cuáles ayudan de forma segura."
+        }
+      ],
+      "dailyChallenge": "Elegí tus tres estrategias preferidas.",
+      "closingMessage": "Cada vez que practicás mis herramientas favoritas, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 58,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Plan de prevención",
+      "objective": "Aprender a trabajar con esta habilidad: plan de prevención.",
+      "reading": "Un plan preventivo une detonantes, creencias, señales, acciones y apoyos para futuras dificultades. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un plan preventivo une detonantes, creencias, señales, acciones y apoyos para futuras dificultades. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien prepara una lista accesible antes de una semana estresante.",
+      "reflectionQuestion": "¿Qué situación requiere más preparación?",
+      "experienceQuestion": "¿Qué apoyo profesional o humano podrías incluir?",
+      "quiz": [
+        {
+          "question": "¿Qué debe tener el plan?",
+          "options": [
+            "Señales, respuestas y apoyos",
+            "Control sobre otros",
+            "Castigos por fallar"
+          ],
+          "correctIndex": 0,
+          "explanation": "La respuesta adecuada es «Señales, respuestas y apoyos». Un plan preventivo une detonantes, creencias, señales, acciones y apoyos para futuras dificultades."
+        }
+      ],
+      "dailyChallenge": "Completá tu plan de prevención en cinco pasos.",
+      "closingMessage": "Cada vez que practicás plan de prevención, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 59,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Compromiso conmigo",
+      "objective": "Aprender a trabajar con esta habilidad: compromiso conmigo.",
+      "reading": "Un compromiso útil es concreto, realista y centrado en conductas que dependen de uno. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: un compromiso útil es concreto, realista y centrado en conductas que dependen de uno. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Una persona decide practicar pausas tres veces por semana.",
+      "reflectionQuestion": "¿Qué compromiso te gustaría mantener?",
+      "experienceQuestion": "¿Qué obstáculo podrías anticipar?",
+      "quiz": [
+        {
+          "question": "¿Qué compromiso es realista?",
+          "options": [
+            "No enojarme jamás",
+            "Cambiar a todos los demás",
+            "Practicar una habilidad concreta"
+          ],
+          "correctIndex": 2,
+          "explanation": "La respuesta adecuada es «Practicar una habilidad concreta». Un compromiso útil es concreto, realista y centrado en conductas que dependen de uno."
+        }
+      ],
+      "dailyChallenge": "Escribí un compromiso pequeño y verificable.",
+      "closingMessage": "Cada vez que practicás compromiso conmigo, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": null,
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    },
+    {
+      "day": 60,
+      "unit": 6,
+      "unitTitle": "Consolidación y prevención",
+      "title": "Después del día sesenta",
+      "objective": "Aprender a trabajar con esta habilidad: después del día sesenta.",
+      "reading": "La regulación emocional es una práctica continua; terminar el programa abre una etapa de mantenimiento. En el enfoque racional emotivo-conductual de Albert Ellis, es útil observar tanto lo que ocurre como las ideas que aparecen en nuestra mente. Una situación puede ser realmente desagradable, injusta o difícil; reconocer nuestras interpretaciones no significa negar los hechos ni excusar las acciones de nadie. Aprender a manejar la ira consiste en reconocer la emoción, examinar las creencias que pueden intensificarla y elegir una conducta responsable. No se trata de callar necesidades legítimas ni de aceptar amenazas o maltrato. Podemos expresar desacuerdo, pedir cambios y establecer límites sin recurrir a la agresión. Hoy vamos a practicar una habilidad concreta: la regulación emocional es una práctica continua; terminar el programa abre una etapa de mantenimiento. No es necesario hacerlo perfectamente ni recordar una situación dolorosa. Una molestia pequeña basta para aprender. Si el ejercicio produce demasiado malestar, podés dejarlo para otro momento y buscar apoyo humano. La práctica frecuente, breve y voluntaria ayuda a identificar alternativas. El objetivo de esta jornada no es eliminar la ira, sino ampliar las opciones para responder con más claridad, cuidado y seguridad.",
+      "example": "Alguien revisa su diario y elige seguir practicando ABCDE y pausas.",
+      "reflectionQuestion": "¿Qué aprendiste sobre tu manera de responder?",
+      "experienceQuestion": "¿Qué cambio querés seguir cultivando?",
+      "quiz": [
+        {
+          "question": "¿Qué significa finalizar?",
+          "options": [
+            "Ya no necesitar apoyo jamás",
+            "Continuar aprendiendo a mi ritmo",
+            "No volver a sentir ira"
+          ],
+          "correctIndex": 1,
+          "explanation": "La respuesta adecuada es «Continuar aprendiendo a mi ritmo». La regulación emocional es una práctica continua; terminar el programa abre una etapa de mantenimiento."
+        }
+      ],
+      "dailyChallenge": "Escribí una carta breve a tu yo futuro con tres recursos.",
+      "closingMessage": "Cada vez que practicás después del día sesenta, ampliás tus posibilidades de responder con responsabilidad.",
+      "selfEvaluation": {
+        "question": "¿Qué tan útil te resultó lo aprendido hoy?",
+        "options": [
+          "Nada útil",
+          "Poco útil",
+          "Algo útil",
+          "Bastante útil",
+          "Muy útil"
+        ]
+      },
+      "podcastId": "podcast-15",
+      "sourceFramework": "TREC: adaptación psicoeducativa original; correspondencia exacta con el libro pendiente de revisión editorial"
+    }
+  ],
+  "podcasts": [
+    {
+      "id": "podcast-01",
+      "day": 4,
+      "title": "Aprende a controlar el enojo",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Aprende%20a%20controlar%20el%20enojo.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-02",
+      "day": 8,
+      "title": "Como manejar la ira en 3 pasos",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Como%20manejar%20la%20ira%20en%203%20pasos.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-03",
+      "day": 12,
+      "title": "Controla así la ira",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Controla%20asi%20la%20ira.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-04",
+      "day": 16,
+      "title": "Cómo Vencer la Ira en el Matrimonio",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/C%C3%B3mo%20Vencer%20la%20Ira%20en%20el%20Matrimonio.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-05",
+      "day": 20,
+      "title": "Gestiona la ira de la mejor manera",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Gestiona%20la%20ira%20de%20la%20mejor%20manera.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-06",
+      "day": 24,
+      "title": "Ira e higiene mental en la salud",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Ira%20e%20higiene%20mental%20en%20la%20salud.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-07",
+      "day": 28,
+      "title": "Ira. Superar la herencia emocional",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Ira.%20Superar%20la%20herencia%20emocional.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-08",
+      "day": 32,
+      "title": "La ira ha silenciado mi vida",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/La%20ira%20ha%20silenciado%20mi%20vida.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-09",
+      "day": 36,
+      "title": "Maneja la ira de forma sana",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Maneja%20la%20ira%20de%20forma%20sana.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-10",
+      "day": 40,
+      "title": "Miedo, culpa e ira",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Miedo%2C%20culpa%20e%20ira.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-11",
+      "day": 44,
+      "title": "Si puedo aprender a manejar la ira",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Si%20puedo%20aprender%20a%20manejar%20la%20ira.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-12",
+      "day": 48,
+      "title": "Transtorno explosivo intermitente",
+      "audioUrl": "https://pub-05e2d968dd34408fbd00e1890907c2d8.r2.dev/Calma%20App/Transtorno%20explosivo%20intermitente.mp3",
+      "status": "provided_unverified",
+      "description": "Audio aportado por el responsable del proyecto; contenido y derechos pendientes de verificación."
+    },
+    {
+      "id": "podcast-13",
+      "day": 52,
+      "title": "Podcast de integración 13",
+      "audioUrl": null,
+      "status": "pending",
+      "description": "Espacio reservado; guion y grabación pendientes."
+    },
+    {
+      "id": "podcast-14",
+      "day": 56,
+      "title": "Podcast de integración 14",
+      "audioUrl": null,
+      "status": "pending",
+      "description": "Espacio reservado; guion y grabación pendientes."
+    },
+    {
+      "id": "podcast-15",
+      "day": 60,
+      "title": "Podcast de integración 15",
+      "audioUrl": null,
+      "status": "pending",
+      "description": "Espacio reservado; guion y grabación pendientes."
+    }
+  ]
+}
